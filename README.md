@@ -19,7 +19,7 @@ This is a simple Store API built using **Node.js**, **Express.js**, and **MongoD
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/store-api.git
+   git clone https://github.com/AliSinaSaifi/store-api.git
    cd store-api
    ```
 2. Install dependencies:
